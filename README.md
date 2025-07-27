@@ -1,2 +1,2 @@
-## Hi, I am Harikaran 👋
+## Hi there, I am Harikaran 👋
 
