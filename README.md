@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Harikaran but you can call me Hari</h1>
+<h1 align="center">Hi 👋, I'm Harikaran </h1>
 <h3 align="center">🎓 3rd Year B.Tech Student – SSN College of Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikaran14&label=Profile%20views&color=0e75b6&style=flat" alt="harikaran14" /> </p>
