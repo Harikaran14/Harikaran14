@@ -19,24 +19,20 @@
 
 <p align="center">
 
-<a href="mailto:harikaran2310104@gmail.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="40" width="40"/>
+<a href="mailto:harikaran2310104@gmail.com">
+<img src="https://img.shields.io/badge/Email-harikaran2310104%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/harikaran-c" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-Harikaran%20C-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://codeforces.com/profile/harikaran14" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="codeforces" height="40" width="40"/>
+<img src="https://img.shields.io/badge/Codeforces-harikaran14-orange?style=for-the-badge&logo=codeforces"/>
 </a>
 
 <a href="https://leetcode.com/h1rik1r1n" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" height="40" width="40"/>
-</a>
-
-<a href="https://instagram.com/h1rik1r1n____c" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" height="40" width="40"/>
+<img src="https://img.shields.io/badge/LeetCode-h1rik1r1n-yellow?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
