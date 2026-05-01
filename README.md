@@ -50,9 +50,15 @@
 ## ⚔️ Codeforces Stats
 
 <p align="center">
+<img src="https://codeforces-stats.vercel.app/api?username=harikaran14&theme=light"/>
+</p>
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=harikaran14"/>
+<img src="https://codeforces-stats-api.herokuapp.com/stats?username=harikaran14"/>
+</p>
+<p align="center">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=harikaran14"/>
 </p>
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
