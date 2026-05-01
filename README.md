@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **System Design**
 
+- 👾 My Competitive Coding Profile Stat: https://codolio.com/profile/Harikaran14
+
 - 👨‍💻 All of my projects are available at [TBA](TBA)
 
 - 📫 How to reach me **harikaran2310104@ssn.edu.in**
