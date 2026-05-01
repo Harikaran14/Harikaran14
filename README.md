@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Email-harikaran2310104%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/harikaran-c" target="_blank">
+<a href="https://www.linkedin.com/in/harikaran-c-42205b306" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Harikaran%20C-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
